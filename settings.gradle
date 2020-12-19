@@ -1,0 +1,4 @@
+include ':client'
+include ':library'
+include ':app'
+rootProject.name = "sensor-aidl"
